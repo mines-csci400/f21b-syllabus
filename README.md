@@ -1,15 +1,15 @@
 ## Course Information
 
-- **Lecture** Time: TBA
-- In-person location: TBA
-- Remote location: [Zoom/YouTube](...)
+- **Lecture** Time: 15:30-16:45
+- Location: MZ 108
 
 ## Instructors
 
 Sumner Evans
 
-- Contact: TBA
-- Office Hours: TBA, via [Zoom](...)
+- Contact: jonathanevans@mines.edu (slow response), me@sumnerevans.com (quick
+  response)
+- Office Hours: TBA
 
 ## Teaching Assistants (TA)
 
@@ -161,6 +161,7 @@ for your future career, so make sure you are behaving with the same level of pro
 would be expected at a future full-time position. The general rule of thumb is:
 **_informal_ is okay, but _disrespectful_ is not**.
 
+- The instructor prefers to be addressed as "Sumner".
 - It is vital that you do your best to participate in the class, and communicate with the instructor(s) about any course-related difficulties you are facing.
 
 Plagiarism/cheating is NOT acceptable, and will be met with the maximum available penalty.
