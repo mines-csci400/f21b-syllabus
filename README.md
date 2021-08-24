@@ -9,7 +9,9 @@ Sumner Evans
 
 - Contact: jonathanevans@mines.edu (slow response), me@sumnerevans.com (quick
   response)
-- Office Hours: TBA
+- Office location: Connects Workspace (behind Cafe 13). I am there most days, so
+  feel free to come by.
+- Office Hours: Thursday 17:00-18:00 (CT246F) or by appointment.
 
 ## Teaching Assistants (TA)
 
