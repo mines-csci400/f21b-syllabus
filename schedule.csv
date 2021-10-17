@@ -16,20 +16,20 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 8,Oct 12,,(exam review),[lecture14](…),,,[lab 3](https://github.com/mines-csci400/f21b-assignment-lab03) assigned
 ,Oct 14,**midterm**,,,,[hw 4](https://github.com/mines-csci400/f21b-assignment-hw04) due,
 9,Oct 19,*no class (holiday)*,,,,,
-,Oct 21,*no class*,,[lecture15](…),,,
-10,Oct 26,higher-order functions,recursive higher-order functions,[lecture16](…),"[Higher-order Programming](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/intro.html), [Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html)",[hw 5](https://github.com/mines-csci400/f21b-assignment-hw05) assigned,[lab 3](https://github.com/mines-csci400/f21b-assignment-lab03) due
-,Oct 28,higher-order functions,static/dynamic scoping,[lecture17](…),[Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,[lab 4](https://github.com/mines-csci400/f21b-assignment-lab04) assigned
-11,Nov 2,higher-order functions,closures,[lecture18](…),[Implementing Closures](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,
-,Nov 4,higher-order functions,OCaml standard libraries,[lecture19](…),"[JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [JavaScript Type Conversions](https://www.w3schools.com/js/js_type_conversion.asp)",[hw 5](https://github.com/mines-csci400/f21b-assignment-hw05) due,
-12,Nov 9,higher-order functions,small-step operational semantics,[lecture20](…),[Type Checking](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/typecheck.html),[hw 6](https://github.com/mines-csci400/f21b-assignment-hw06) assigned,[lab 4](https://github.com/mines-csci400/f21b-assignment-lab04) due
-,Nov 11,type checking,static/dynamic typing,[lecture21(…),[Hindley-Milner](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/inference.html),,[lab 5](https://github.com/mines-csci400/f21b-assignment-lab05) assigned
-13,Nov 16,type checking,type inference,[lecture22](…),Semantics of PL ch 5.1-5.2,,
-,Nov 18,mutable variables and objects,objects/references,[lecture23](…),Semantics of PL ch 5.3,[hw 6](https://github.com/mines-csci400/f21b-assignment-hw06) due,
+,Oct 21,*no class*,,,,,
+10,Oct 26,higher-order functions,recursive higher-order functions,[lecture15](…),"[Higher-order Programming](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/intro.html), [Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html)",[hw 5](https://github.com/mines-csci400/f21b-assignment-hw05) assigned,[lab 3](https://github.com/mines-csci400/f21b-assignment-lab03) due
+,Oct 28,higher-order functions,static/dynamic scoping,[lecture16](…),[Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,[lab 4](https://github.com/mines-csci400/f21b-assignment-lab04) assigned
+11,Nov 2,higher-order functions,closures,[lecture17](…),[Implementing Closures](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,
+,Nov 4,higher-order functions,OCaml standard libraries,[lecture18](…),"[JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [JavaScript Type Conversions](https://www.w3schools.com/js/js_type_conversion.asp)",[hw 5](https://github.com/mines-csci400/f21b-assignment-hw05) due,
+12,Nov 9,higher-order functions,small-step operational semantics,[lecture19](…),[Type Checking](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/typecheck.html),[hw 6](https://github.com/mines-csci400/f21b-assignment-hw06) assigned,[lab 4](https://github.com/mines-csci400/f21b-assignment-lab04) due
+,Nov 11,type checking,static/dynamic typing,[lecture20](…),[Hindley-Milner](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/inference.html),,[lab 5](https://github.com/mines-csci400/f21b-assignment-lab05) assigned
+13,Nov 16,type checking,type inference,[lecture21(…),Semantics of PL ch 5.1-5.2,,
+,Nov 18,mutable variables and objects,objects/references,[lecture22](…),Semantics of PL ch 5.3,[hw 6](https://github.com/mines-csci400/f21b-assignment-hw06) due,
 14,Nov 23,*no class*,,,,[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) assigned,[lab 5](https://github.com/mines-csci400/f21b-assignment-lab05) due
 ,Nov 25,*no class (holiday)*,,,,,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) assigned
-15,Nov 30,mutable variables and objects,garbage collection,[lecture24](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,
-,Dec 2,advanced topics,,[lecture25](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) due,
-16,Dec 7,,(exam review),,[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) due
+15,Nov 30,mutable variables and objects,garbage collection,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,
+,Dec 2,advanced topics,,[lecture24](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) due,
+16,Dec 7,,(exam review),[lecture25](…),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) due
 ,Dec 9,*no class (study for finals)*,,,,,
 17,Dec 14,*no class (final exam week)*,,,,,
 ,Dec 16,*no class (final exam week)*,,,,,
