@@ -27,9 +27,9 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 ,Nov 18,mutable variables and objects,objects/references,[lecture22](…),Semantics of PL ch 5.3,[hw 6](https://github.com/mines-csci400/f21b-assignment-hw06) due,
 14,Nov 23,*no class*,,,,[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) assigned,
 ,Nov 25,*no class (holiday)*,,,,,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) assigned
-15,Nov 30,mutable variables and objects,garbage collection,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,[lab 5](https://github.com/mines-csci400/f21b-assignment-lab05) due
-,Dec 2,advanced topics,,[lecture24](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) due,
+15,Nov 30,mutable variables and objects,garbage collection,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,
+,Dec 2,advanced topics,,[lecture24](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f21b-assignment-hw07) due,[lab 5](https://github.com/mines-csci400/f21b-assignment-lab05) due
 16,Dec 7,,(exam review),[lecture25](…),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,
 ,Dec 9,*no class (study for finals)*,,,,,
-17,Dec 14,*no class (final exam week)*,,,,,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) due
-,Dec 16,*no class (final exam week)*,,,,,
+17,Dec 14,*no class (final exam week)*,,,,,
+,Dec 16,*no class (final exam week)*,,,,,[lab 6](https://github.com/mines-csci400/f21b-assignment-lab06) due
